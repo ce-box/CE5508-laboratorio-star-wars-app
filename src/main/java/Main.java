@@ -8,7 +8,7 @@ import org.apache.http.util.EntityUtils;
 
 import java.io.IOException;
 
-public class Main {
+public class Main_2 {
     private static ObjectMapper mapper = new ObjectMapper();
 
     public static void main(String[] args) throws IOException, IOException {
